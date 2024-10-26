@@ -1,0 +1,2 @@
+# SimpleChatBot
+for educational purposes
